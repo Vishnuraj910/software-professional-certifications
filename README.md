@@ -12,6 +12,16 @@ An interactive guide to tech certifications for software engineers — from fres
 
 Plain HTML, CSS and JavaScript — no build step, no dependencies.
 
+**Open source.** Repository: [github.com/Vishnuraj910/software-professional-certifications](https://github.com/Vishnuraj910/software-professional-certifications)
+
+## Contributing
+
+Prices, exam codes and retirements change every few months — corrections are the most valuable contribution.
+
+- **Fix a price or link:** edit the entry in `CERTS` in `data.js` and open a pull request with a link to the official exam page as the source.
+- **Add a certification:** copy an existing entry in `CERTS`, fill in every field (see *Updating prices* below) and explain in the PR which roles it helps and why.
+- **Report a problem:** open an issue with the certification name and what's wrong.
+
 ## Files
 
 | File | Purpose |
