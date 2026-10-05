@@ -20,6 +20,9 @@ Plain HTML, CSS and JavaScript — no build step, no dependencies.
 | `data.js` | Certifications, roles, levels, UAE sectors and shared helpers — edit `CERTS` to add or update entries |
 | `app.js` | Rendering, interaction and URL state |
 | `favicon.svg` | Site icon |
+| `creator.jpg` | Creator photo used in the footer |
+
+Created by Vishnuraj Rajagopal — [vishnuraj.me](https://vishnuraj.me) · [LinkedIn](https://www.linkedin.com/in/vishnurajrajagopal)
 
 ## Deploy
 
