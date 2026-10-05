@@ -31,6 +31,9 @@ Prices, exam codes and retirements change every few months — corrections are t
 | `app.js` | Rendering, interaction and URL state |
 | `favicon.svg` | Site icon |
 | `creator.jpg` | Creator photo used in the footer |
+| `og-image.png` | 1200×627 link-preview image for LinkedIn, WhatsApp and X |
+
+**Link previews:** the Open Graph tags in `index.html` use absolute URLs on `uae-software-professional-certifications.vercel.app`. If you move to another domain, update those URLs. After changing the preview, refresh LinkedIn's cache with the [Post Inspector](https://www.linkedin.com/post-inspector/).
 
 Created by Vishnuraj Rajagopal — [vishnuraj.me](https://vishnuraj.me) · [LinkedIn](https://www.linkedin.com/in/vishnurajrajagopal)
 
