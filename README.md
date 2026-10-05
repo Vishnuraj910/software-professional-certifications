@@ -31,6 +31,8 @@ Created by Vishnuraj Rajagopal — [vishnuraj.me](https://vishnuraj.me) · [Link
 
 If you put the files in a sub-folder of the repo, set Vercel's **Root Directory** to that folder.
 
+**Analytics:** `index.html` already loads Vercel Web Analytics (the plain-HTML version of `@vercel/analytics`). In your Vercel project, open **Analytics** and click **Enable**; data appears after the next deployment. The script only works on Vercel, so locally it simply 404s and does nothing.
+
 To run locally, open `index.html` in a browser, or serve the folder with `npx serve .`.
 
 ## Updating prices
